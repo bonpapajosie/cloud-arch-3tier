@@ -1,0 +1,2 @@
+aws s3api create-bucket --acl private --bucket tf-buk-bmjp-artifacts --region us-east-1
+aws s3api put-bucket-versioning --bucket tf-buk-bmjp-artifacts --versioning-configuration Status=Enabled

@@ -1,0 +1,8 @@
+**/.vscode/*
+**/.terraform/*
+**/.terraform/*
+**/keypass/*
+*.tfstate
+*.tfstate.*
+crash.log
+*.tfvars
